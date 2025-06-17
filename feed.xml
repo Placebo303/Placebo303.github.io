@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hux Blog</title>
-    <description>这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员</description>
-    <link>https://huangxuan.me/</link>
-    <atom:link href="https://huangxuan.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 17 Jun 2025 11:39:54 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Jun 2025 11:39:54 +0000</lastBuildDate>
+    <title>Placebo303 Blog</title>
+    <description>这这里是 @Placebo303 的个人博客，记录我在量子通信、编程学习与科研探索中的所见所思，致力于分享学习计划、实验实践与前沿进展。</description>
+    <link>https://placebo303.github.io//</link>
+    <atom:link href="https://placebo303.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 17 Jun 2025 12:01:01 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Jun 2025 12:01:01 +0000</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
@@ -20,8 +20,8 @@
 &lt;p&gt;— 黄玄，Facebook 软件工程师（编程语言、JS 引擎、前端基础设施）、中文前端社区活跃成员。&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
-        <link>https://huangxuan.me/2021/04/10/js-20yrs-preface/</link>
-        <guid isPermaLink="true">https://huangxuan.me/2021/04/10/js-20yrs-preface/</guid>
+        <link>https://placebo303.github.io//2021/04/10/js-20yrs-preface/</link>
+        <guid isPermaLink="true">https://placebo303.github.io//2021/04/10/js-20yrs-preface/</guid>
         
         <category>Web</category>
         
@@ -104,8 +104,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
-        <link>https://huangxuan.me/2020/07/05/reflection-2020/</link>
-        <guid isPermaLink="true">https://huangxuan.me/2020/07/05/reflection-2020/</guid>
+        <link>https://placebo303.github.io//2020/07/05/reflection-2020/</link>
+        <guid isPermaLink="true">https://placebo303.github.io//2020/07/05/reflection-2020/</guid>
         
         <category>知乎</category>
         
@@ -499,8 +499,8 @@ neither in C or C++ standard. Though compiler extension might include it.&lt;/p&
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-        <link>https://huangxuan.me/2020/06/21/data-rep-float/</link>
-        <guid isPermaLink="true">https://huangxuan.me/2020/06/21/data-rep-float/</guid>
+        <link>https://placebo303.github.io//2020/06/21/data-rep-float/</link>
+        <guid isPermaLink="true">https://placebo303.github.io//2020/06/21/data-rep-float/</guid>
         
         <category>笔记</category>
         
@@ -952,8 +952,8 @@ not the case of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-        <link>https://huangxuan.me/2020/06/19/data-rep-int/</link>
-        <guid isPermaLink="true">https://huangxuan.me/2020/06/19/data-rep-int/</guid>
+        <link>https://placebo303.github.io//2020/06/19/data-rep-int/</link>
+        <guid isPermaLink="true">https://placebo303.github.io//2020/06/19/data-rep-int/</guid>
         
         <category>笔记</category>
         
@@ -972,8 +972,8 @@ not the case of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&
 &lt;/iframe&gt;
 </description>
         <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-        <link>https://huangxuan.me/2020/05/05/pl-chart/</link>
-        <guid isPermaLink="true">https://huangxuan.me/2020/05/05/pl-chart/</guid>
+        <link>https://placebo303.github.io//2020/05/05/pl-chart/</link>
+        <guid isPermaLink="true">https://placebo303.github.io//2020/05/05/pl-chart/</guid>
         
         
       </item>
@@ -1228,8 +1228,8 @@ not the case of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-        <link>https://huangxuan.me/2020/04/03/react-hooks-vue-composition/</link>
-        <guid isPermaLink="true">https://huangxuan.me/2020/04/03/react-hooks-vue-composition/</guid>
+        <link>https://placebo303.github.io//2020/04/03/react-hooks-vue-composition/</link>
+        <guid isPermaLink="true">https://placebo303.github.io//2020/04/03/react-hooks-vue-composition/</guid>
         
         <category>知乎</category>
         
@@ -1279,8 +1279,8 @@ not the case of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
-        <link>https://huangxuan.me/2019/11/19/is-pwa-dead-in-2019/</link>
-        <guid isPermaLink="true">https://huangxuan.me/2019/11/19/is-pwa-dead-in-2019/</guid>
+        <link>https://placebo303.github.io//2019/11/19/is-pwa-dead-in-2019/</link>
+        <guid isPermaLink="true">https://placebo303.github.io//2019/11/19/is-pwa-dead-in-2019/</guid>
         
         <category>知乎</category>
         
@@ -1355,8 +1355,8 @@ not the case of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-        <link>https://huangxuan.me/2019/09/03/vim-from-finder/</link>
-        <guid isPermaLink="true">https://huangxuan.me/2019/09/03/vim-from-finder/</guid>
+        <link>https://placebo303.github.io//2019/09/03/vim-from-finder/</link>
+        <guid isPermaLink="true">https://placebo303.github.io//2019/09/03/vim-from-finder/</guid>
         
         <category>Vim</category>
         
@@ -2515,8 +2515,8 @@ When this happens, it is unpredictable which instance will be found first by the
 
 </description>
         <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
-        <link>https://huangxuan.me/2019/09/02/sf-qc-02-typeclasses/</link>
-        <guid isPermaLink="true">https://huangxuan.me/2019/09/02/sf-qc-02-typeclasses/</guid>
+        <link>https://placebo303.github.io//2019/09/02/sf-qc-02-typeclasses/</link>
+        <guid isPermaLink="true">https://placebo303.github.io//2019/09/02/sf-qc-02-typeclasses/</guid>
         
         <category>SF (软件基础)</category>
         
@@ -2534,8 +2534,8 @@ When this happens, it is unpredictable which instance will be found first by the
         <description>&lt;p&gt;TBD&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-        <link>https://huangxuan.me/2019/03/19/sf-plf-19-partial-eval/</link>
-        <guid isPermaLink="true">https://huangxuan.me/2019/03/19/sf-plf-19-partial-eval/</guid>
+        <link>https://placebo303.github.io//2019/03/19/sf-plf-19-partial-eval/</link>
+        <guid isPermaLink="true">https://placebo303.github.io//2019/03/19/sf-plf-19-partial-eval/</guid>
         
         <category>SF (软件基础)</category>
         
