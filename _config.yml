@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Placebo303 Blog
+SEOTitle: Placebo303的博客 | Placebo303 Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+email: karel.yangkai303@gmail.com
+description: "这这里是 @Placebo303 的个人博客，记录我在量子通信、编程学习与科研探索中的所见所思，致力于分享学习计划、实验实践与前沿进展。"
+keyword: "Placebo303, 量子通信, 量子编程, GitHub Pages 博客, 科研生活, Python, 华中科技大学, 光学实验"
+url: "https://placebo303.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
