@@ -1,0 +1,49 @@
+# Jekyll 构建文件
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby 依赖
+Gemfile.lock
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+
+# Node.js 依赖（如果使用）
+node_modules/
+package-lock.json
+
+# 敏感信息
+.env
+.env.local
+.env.*.local
+
+# 备份文件
+*.bak
+*.backup
+
+# 压缩文件
+*.gz
+*.zip
+*.tar
+*.rar
+
+# 图片缓存
+img/cache/
+
+# 本地配置
+_config.local.yml

@@ -1,0 +1,88 @@
+========================================
+  个人学术主页 - 快速参考
+========================================
+
+项目位置：D:\Code\academic-website
+
+========================================
+  第一步：添加头像
+========================================
+
+将个人头像复制到：
+D:\Code\academic-website\img\kai-yang.jpg
+
+要求：正方形，300x300像素以上
+
+========================================
+  第二步：本地预览（可选）
+========================================
+
+打开 PowerShell，运行：
+
+cd D:\Code\academic-website
+bundle install
+bundle exec jekyll serve
+
+访问：http://localhost:4000
+
+========================================
+  第三步：部署到 GitHub
+========================================
+
+方法一：直接推送
+
+cd D:\Code\academic-website
+git init
+git remote add origin https://github.com/Placebo303/Placebo303.github.io.git
+git add .
+git commit -m "Update academic homepage"
+git push -u origin main
+
+方法二：替换现有仓库
+
+git clone https://github.com/Placebo303/Placebo303.github.io.git D:\Code\Placebo303.github.io
+Copy-Item "D:\Code\academic-website\*" "D:\Code\Placebo303.github.io" -Recurse -Force
+cd D:\Code\Placebo303.github.io
+git add .
+git commit -m "Update academic homepage"
+git push origin main
+
+========================================
+  第四步：启用 GitHub Pages
+========================================
+
+1. 打开 https://github.com/Placebo303/Placebo303.github.io
+2. Settings → Pages
+3. Source 选择 main 分支
+4. Save
+
+网站地址：https://placebo303.github.io
+
+========================================
+  常用命令
+========================================
+
+本地预览：
+  bundle exec jekyll serve
+
+构建网站：
+  bundle exec jekyll build
+
+清理缓存：
+  Remove-Item "_site" -Recurse -Force
+  Remove-Item ".jekyll-cache" -Recurse -Force
+
+========================================
+  文件说明
+========================================
+
+_config.yml      - 网站配置
+_includes/about/ - 个人简介
+research.md      - 研究页面
+projects.md      - 项目页面
+publications.md  - 论文页面
+cv.md            - 简历页面
+contact.md       - 联系页面
+notes.md         - 笔记页面
+
+========================================
