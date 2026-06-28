@@ -25,6 +25,7 @@ github_username: Placebo303
 highlighter: rouge
 permalink: pretty
 paginate: 10
+source: .
 exclude:
   [
     "less",
