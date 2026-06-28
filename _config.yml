@@ -34,6 +34,22 @@ exclude:
     "package.json",
     "README.md",
     "README.zh.md",
+    "COMPLETE.txt",
+    "CONTENT-NEEDED.md",
+    "DEPLOY-GUIDE.md",
+    "FINAL-REPORT.md",
+    "FIX-404.md",
+    "QUICK-FORM.md",
+    "QUICK-REF.txt",
+    "START-HERE.md",
+    "SUMMARY.md",
+    "UPDATE-SUMMARY.md",
+    "implementation-guide.md",
+    "site-structure.md",
+    "verify.bat",
+    "deploy.sh",
+    "Rakefile",
+    "Gemfile",
   ]
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
@@ -76,7 +92,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "Master's Student in Optical Engineering<br>Wuhan National Laboratory for Optoelectronics<br>Huazhong University of Science and Technology"
-sidebar-avatar: img/kai-yang.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar-hux.jpg # TODO: 替换为你自己的照片 img/kai-yang.jpg
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
